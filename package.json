@@ -1,0 +1,32 @@
+{
+  "name": "data-convertor",
+  "version": "1.0.0",
+  "description": "Modify the data structure according to the configuration.",
+  "author": "NickWang",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickWangCN/data-convertor.git"
+  },
+  "keywords": [
+    "data-convertor"
+  ],
+  "bugs": {
+    "url": "https://github.com/NickWangCN/data-convertor/issues"
+  },
+  "homepage": "https://github.com/NickWangCN/data-convertor#readme",
+  "devDependencies": {
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^20.4.9",
+    "mocha": "^10.2.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "type": "module"
+}
